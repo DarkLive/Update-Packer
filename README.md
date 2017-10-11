@@ -1,6 +1,6 @@
-##### This project is discontinued. #####
+# This project is discontinued. #
 
-#### A newer/improved version of it is avaible on [my new project](https://github.com/DarkLive/Dark-Toolbox) ####
+## A newer/improved version of it is avaible on [my new project](https://github.com/DarkLive/Dark-Toolbox) ##
 
 ***
 
