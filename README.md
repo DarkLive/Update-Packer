@@ -1,3 +1,9 @@
+##### This project is discontinued. #####
+
+#### A newer/improved version of it is avaible on [my new project](https://github.com/DarkLive/Dark-Toolbox) ####
+
+***
+
 ## A Software to Pack Game/Software Updates. ##
 
 ![alt text](https://raw.githubusercontent.com/DarkLive/Update-Packer/master/Screen.jpg)
